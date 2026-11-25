@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Большие бинарные данные (генерируются скриптом task_07)
+data/*
+!data/.gitkeep
+*.dat
